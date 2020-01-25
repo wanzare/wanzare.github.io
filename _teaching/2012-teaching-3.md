@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2012-teaching-3
 venue: "Maseno University"
-date: 06-2012 to date
+date: 06/2012 to date
 location: "Kisumu, Kenya"
 ---
 
