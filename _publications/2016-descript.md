@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-descript
 excerpt: 'This paper is about building a corpus of short sentences explicitly describing event sequences for various everyday scenarios.'
 date: 2016-10-01
-venue: 'Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC),Portoroz, Slovenia.'
+venue: 'Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC),Portoroz, Slovenia'
 paperurl: 'http://www.lrec-conf.org/proceedings/lrec2016/pdf/913_Paper.pdf'
 citation: 'Wanzare, L., Zarcone A.,Thater, S., Pinkal, M. (2016). &quot;DeScript: A crowdsourced Corpus for the Acquisition of High-Quality Script Knowledge.&quot; <i>Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC)</i>.'
 ---
