@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Nairobi, 2008
+* M.S. in Language and Computer Technology, Saarland University, 2011
+* Ph.D in Computational Linguistics, Saarland University, 2019
 
 Work experience
 ======
@@ -22,19 +22,20 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Aug 2007 – Oct 2007: Intern
+  * Barclays Bank, Nairobi
+  * Duties included: Processing e-box messages, inward swift messages/payments, posting of inward TT payments, Processing and Mailing customer advices 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Natural Language Processing
+* Programmig
+  * Python
+  * Java
+  * R
+* Research
+* Teaching
 
 Publications
 ======
