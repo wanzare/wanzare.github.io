@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2011-teaching-1
 venue: "University of Nairobi"
-date: 10-2011 to 06-2011
+date: 10/2011 to 06/2011
 location: "Nairobi, Kenya"
 ---
 
