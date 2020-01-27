@@ -12,13 +12,7 @@ Taught:
 Courses taught: Object Oriented programming with Java, Essentials of Artificial Intelligence, Data mining, Information retrieval, 
 Probability and Statistics, Automata theory, Discrete mathematics.
 
-Heading 1
-======
-Curriculum development
-Organizing and conducting programming hackathons for Bachelor students
-Mentoring, and Supervising student projects
-Heading 2
-======
-
-Heading 3
-======
+Duties include: 
+* Curriculum development
+* Organizing and conducting programming hackathons for Bachelor students
+* Mentoring, and Supervising student projects

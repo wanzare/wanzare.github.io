@@ -9,12 +9,3 @@ location: "Nairobi, Kenya"
 ---
 
 Taught: Object Oriented Analysis and Design with UML, Event Driven programming, Programming with Java
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

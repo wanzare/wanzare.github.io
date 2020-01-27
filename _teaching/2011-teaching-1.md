@@ -9,12 +9,3 @@ location: "Nairobi, Kenya"
 ---
 
 Taught: Knowledge based systems, Introduction to Artificial Intelligence
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
