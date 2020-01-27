@@ -18,47 +18,47 @@ Education
 Work experience
 ======
 * Jan 2020 - date: Lecturer (Computer Science)
- * Maseno University, Kisumu.
- * Duties include: Heading the post-graduate programme activities in the Department of Computer Science, Coordinating student project activities at 3rd and 4th year level.
+	* Maseno University, Kisumu.
+	* Duties include: Heading the post-graduate programme activities in the Department of Computer Science, Coordinating student project activities at 3rd and 4th year level.
 
 * Oct 2014 – Dec 2019: PhD Researcher (“Wissenschaftliche Mitarbeiterin”) at Saarland University
- * Universität des Saarlandes, Saarbruecken, Germany.
- * My current research focused on Knowledge acquisition, Topic modeling, Supervised and Semi-supervised learning. 
+	* Universität des Saarlandes, Saarbruecken, Germany.
+	* My current research focused on Knowledge acquisition, Topic modeling, Supervised and Semi-supervised learning. 
  
 * Jul 2012 – Oct 2019: Tutorial Fellow
- * Maseno University, Kisumu
- * Duties included: Curriculum development, teaching, and grading, Organizing and conducting programming hackathons for Bachelor students, Mentoring, and Supervising student projects
- * Courses taught: Object Oriented programming with Java, Essentials of Artificial Intelligence, Data mining, Information retrieval, Probability and Statistics, Automata theory, Discrete mathematics.
+	* Maseno University, Kisumu
+	* Duties included: Curriculum development, teaching, and grading, Organizing and conducting programming hackathons for Bachelor students, Mentoring, and Supervising student projects
+	* Courses taught: Object Oriented programming with Java, Essentials of Artificial Intelligence, Data mining, Information retrieval, Probability and Statistics, Automata theory, Discrete mathematics.
  
 * Jan 2012 – Jun 2012: Lecturer
- * Inoorero University - ICT, Nairobi.
- * Courses taught: Object Oriented Analysis and Design with UML, Event Driven programming, Programming with Java 
+	* Inoorero University - ICT, Nairobi.
+	* Courses taught: Object Oriented Analysis and Design with UML, Event Driven programming, Programming with Java 
 
 * Oct 2011 – Jun 2012: Part time Lecturer
- * University of Nairobi, Nairobi.
- * Courses taught: Knowledge based systems, Introduction to Artificial Intelligence 
+	* University of Nairobi, Nairobi.
+	* Courses taught: Knowledge based systems, Introduction to Artificial Intelligence 
 
 * Mar 2011 – Aug 2011: Project Intern
- * Fondazione Bruno Kessler - FBK, University of Trento, (HLT group - Natural Language Processing). Trento, Italy.
- * Duties included: My research was on extracting and evaluating relational patterns extracted from Wikipedia in entailment based QA over Linked Data. 
+	* Fondazione Bruno Kessler - FBK, University of Trento, (HLT group - Natural Language Processing). Trento, Italy.
+	* Duties included: My research was on extracting and evaluating relational patterns extracted from Wikipedia in entailment based QA over Linked Data. 
 
 * Employed Dec 2009 – Jul 2010: Intern
 	* Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI), Saarbruecken, Germany.
 	* Duties included: 
-	 * Maintain corpora lists and descriptions for various projects within Computational Linguistics Department (Uds) and DFKI (Uds):
-     * create a disc system that all relevant groups on campus could mount.
-     * put all corpora on campus on that list and update wiki entries
-     * make a procedure of how to add/order new corpora to the Disc
+		* Maintain corpora lists and descriptions for various projects within Computational Linguistics Department (Uds) and DFKI (Uds):
+		* create a disc system that all relevant groups on campus could mount.
+		* put all corpora on campus on that list and update wiki entries
+		* make a procedure of how to add/order new corpora to the Disc
 
 * Nov 2008 - Sept 2009: Junior Project Manager
-  * Voxiva (acquired by Wellpass), Nairobi
-  * Duties included: 
-    * Elicit system requirements from customers.
-    * Develop AS-IS and TO-BE document solutions as deliverables.
-    * Proactively communicate and collaborate with customers.
-    * Track technical progress of projects.
-    * Plan, schedule, and monitor the inventory of the project products and materials.
-	* Projects: Farmchem Application, PSI Application (Population Services International)
+	* Voxiva (acquired by Wellpass), Nairobi
+	* Duties included: 
+		* Elicit system requirements from customers.
+		* Develop AS-IS and TO-BE document solutions as deliverables.
+		* Proactively communicate and collaborate with customers.
+		* Track technical progress of projects.
+		* Plan, schedule, and monitor the inventory of the project products and materials.
+		* Projects: Farmchem Application, PSI Application (Population Services International)
 
 
 * Aug 2007 – Oct 2007: Intern
