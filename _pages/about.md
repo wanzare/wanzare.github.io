@@ -14,3 +14,6 @@ Previously, I was a PhD Researcher in DFG-funded CRC
 (SFB-1102), under Project A2: Script Knowledge for Modelling Semantic Expectation and supervised by Prof. Manfred Pinkal & Dr. Stefan Thater. 
 
 My research interests are in Text Mining, Knowledge Extraction, Question Answering, Applications of Script knowledge. 
+
+## News
+ Coming soon!
